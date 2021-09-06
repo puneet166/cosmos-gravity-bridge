@@ -1,0 +1,16 @@
+node_modules
+typechain
+target
+tests/test-runner/Cargo.lock
+tests/dockerfile/gravity.tar.gz
+solidity/dist
+orchestrator/bins
+
+# IDE files
+.idea/
+
+#Hardhat files
+cache
+artifacts
+*.test
+*-stamp
